@@ -2,13 +2,33 @@
   "sdk": {
     "version": "34.0.0",
     "url": "https://raw.githubusercontent.com/indian224050-ai/web2app-builder-files/main/sdk/build-tools.zip",
-    "size": 56000000,
-    "md5": "skip"
+    "size": 58000000
   },
   "platformTools": {
     "version": "latest",
     "url": "https://raw.githubusercontent.com/indian224050-ai/web2app-builder-files/main/sdk/platform-tools.zip",
-    "size": 7400000,
-    "md5": "skip"
+    "size": 7700000
+  },
+  "commandLineTools": {
+    "version": "latest",
+    "url": "https://dl.google.com/android/repository/commandlinetools-linux-latest.zip",
+    "size": 143000000
+  },
+  "gradle": {
+    "version": "9.3.1",
+    "url": "https://services.gradle.org/distributions/gradle-9.3.1-bin.zip",
+    "size": 130000000
+  },
+  "jdk": {
+    "version": "25.0.2",
+    "url": "https://download.oracle.com/java/25/latest/jdk-25_linux-x64_bin.tar.gz",
+    "size": 134000000
+  },
+  "templates": {
+    "webview": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/indian224050-ai/web2app-builder-files/main/templates/webview-template.zip",
+      "size": 5000000
+    }
   }
 }
