@@ -1,0 +1,14 @@
+{
+  "sdk": {
+    "version": "34.0.0",
+    "url": "https://raw.githubusercontent.com/indian224050-ai/web2app-builder-files/main/sdk/build-tools.zip",
+    "size": 56000000,
+    "md5": "skip"
+  },
+  "platformTools": {
+    "version": "latest",
+    "url": "https://raw.githubusercontent.com/indian224050-ai/web2app-builder-files/main/sdk/platform-tools.zip",
+    "size": 7400000,
+    "md5": "skip"
+  }
+}
